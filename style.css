@@ -210,7 +210,7 @@ margin-bottom: 10px;
 }
 
 
-.contect-container{
+.contact-container{
     display: flex;
     justify-content: space-evenly;
     width: 100%;
@@ -219,7 +219,7 @@ margin-bottom: 10px;
 
 }
 
-.contect-container .image{
+.contact-container .image{
     width: 30rem;
     padding: 30px;
 
@@ -247,7 +247,7 @@ margin-bottom: 10px;
 }
 
 
-.contect-container form{
+.contact-container form{
     padding: 2rem;
     width: 30rem;
     height: 30rem;
